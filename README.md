@@ -1,5 +1,5 @@
 # Reflection-in-ellipse
-Simulate the effect of reflection withing an ellipse
+Simulate the effect of reflection within an ellipse
 
 # Usage
 * a,b,c - increase the focus and axes of the ellipse
